@@ -3,4 +3,4 @@ Currently moving some things over from a js project for this that is in the work
 Able to enter your username and render your various games, take notes on your plans for each of your games
 
 ### how it looks so far
-![How it looks](public/readme.png)
+![How it looks](index.png)
